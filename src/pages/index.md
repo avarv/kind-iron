@@ -63,7 +63,7 @@ sections:
           slitsomme seil-økter og utsettelse for dårlig vær – ideelt både for
           erfarne og nye seilere.
         align: left
-        image: images/feature.svg
+        image: /images/greece-kyklades-300x276.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:

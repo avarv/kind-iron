@@ -83,7 +83,7 @@ sections:
             label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: Reiseruter for leie av bemannet seilyacht i Kykladene
         content: >-
           ## Lorem ipsum
 

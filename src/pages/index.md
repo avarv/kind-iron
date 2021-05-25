@@ -29,10 +29,16 @@ sections:
     features:
       - type: feature
         title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Start din seiltur blant de greske øyene fra midten av Kykladene i
+          Egeerhavet og sett seil rundt de greske øyene.
+
+
+
+
+          Greek Water Yachts, et miljøvennlig selskap for seilbåt-leie,
+          bemannede (skipper – kaptein) private charter-seilbåter for din greske
+          seiltur, lokalisert på øya Paros i midten av øygruppen Kykladene.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image

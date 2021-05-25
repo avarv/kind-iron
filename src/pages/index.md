@@ -64,7 +64,7 @@ sections:
           erfarne og nye seilere.
         align: left
         image: /images/greece-kyklades-300x276.png
-        image_alt: Feature 2 placeholder image
+        image_alt: Kykladene i et kart over Hellas
         image_position: left
         actions:
           - type: action

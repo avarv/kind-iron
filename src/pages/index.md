@@ -50,18 +50,7 @@ sections:
         actions: []
       - type: feature
         title: Seiling i Kykladene – Hellas
-        content: >
-          Vår lille flåte av moderne yachter er ivaretatt til den høyeste
-          standard av sikkerhet og komfort og bemannet av et eksepsjonelt
-          mannskap med mange års lokal kjennskap og erfaring. De vil guide deg
-          trygt i vakre omgivelser.
-
-
-
-
-          Våre private charter-cruise fra øya Paros er lager for å unngå lange,
-          slitsomme seil-økter og utsettelse for dårlig vær – ideelt både for
-          erfarne og nye seilere.
+        content: "De vakre Kykladene former en sirkel rundt den hellige øya Delos hvor – ifølge gresk mytologi – Poseidon, havets gud, rasende på de kykladiske nymfene, forvandlet dem til øyer!\n\nØygruppen\_**Kykladene**\_er et perfekt valg for ditt private øy-cruise med leie av\_**bemannet seilbåt i Hellas**.\n\nHva dere kan forvente:\n\n*   mange øyer og steder å besøke\n\n*   korte seilinger blant øyene\n\n*   beskyttede vann\n\n*   unik natur og vakre landskap\n\n*   perfekt klima\n\n*   eventyrlig ferie på populære eller isolerte steder es\n\nDet er derfor Kykladene er et område du må utforske gjennom leie av bemannet seilbåt.\n\nDet er derfor Kykladene er synonymt med Gresk Sommerferie og en av de beste stedene i verden for private turer med seilbåt.\n\nDet er derfor leing av seilbåt med skipper fra Paros øy er det ideale startpunktet for din private seiltur blant de greske øyene.\n\nSeiltur med leie av bemannet seilbåt i Hellas – Beste måten å oppleve de greske øyene\n\nNaviger vår webside og les mer om din greske seiltur, og ikke glem hva privat seiling med leie av en liten seilbåt tilbyr:\n\n*   en 24/7 sjøutsikt\n\n*   svømming fra baksiden av yachten din i varmt, klart vann\n\n*   besøke og utforske en annerledes øy, havn eller bukt hver dag\n\n*   alltid et bord i vannkanten eller en fantastisk utsikt, ingen turistmengder eller køer\n\n*   tilbring kveldene i land og nyt de beste tavernaene, restaurantene og kafeene\n\n*   besøk vakre naturlige bukter bare tilgjengelige med yacht, for lunsj, svømming, snorkling & avslapping\n\n*   ingen faste reiseruter – du bestemmer tempoet, hvor du vil reise og når\n\n*   et morsom, romantisk eller avslappende avbrekk fra hverdagen\n\n*   koster ikke mer enn en ferie på et hotell fordi du sparer penger for overnatting, måltider og billetter.\n\n*   en miljøvennlig ferie\n"
         align: left
         image: /images/greece-kyklades-300x276.png
         image_alt: Kykladene i et kart over Hellas

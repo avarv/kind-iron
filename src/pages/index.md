@@ -49,7 +49,7 @@ sections:
         image_position: right
         actions: []
       - type: feature
-        title: Feature 2
+        title: Seiling i Kykladene – Hellas
         content: >
           Vår lille flåte av moderne yachter er ivaretatt til den høyeste
           standard av sikkerhet og komfort og bemannet av et eksepsjonelt

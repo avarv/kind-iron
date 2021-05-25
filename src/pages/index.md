@@ -50,10 +50,18 @@ sections:
             style: secondary
       - type: feature
         title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Vår lille flåte av moderne yachter er ivaretatt til den høyeste
+          standard av sikkerhet og komfort og bemannet av et eksepsjonelt
+          mannskap med mange års lokal kjennskap og erfaring. De vil guide deg
+          trygt i vakre omgivelser.
+
+
+
+
+          Våre private charter-cruise fra øya Paros er lager for å unngå lange,
+          slitsomme seil-økter og utsettelse for dårlig vær – ideelt både for
+          erfarne og nye seilere.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image

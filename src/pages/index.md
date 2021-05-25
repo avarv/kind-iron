@@ -29,11 +29,20 @@ sections:
           Egeerhavet og sett seil rundt de greske øyene.
 
 
-
-
           Greek Water Yachts, et miljøvennlig selskap for seilbåt-leie,
           bemannede (skipper – kaptein) private charter-seilbåter for din greske
           seiltur, lokalisert på øya Paros i midten av øygruppen Kykladene.
+
+
+          Vår lille flåte av moderne yachter er ivaretatt til den høyeste
+          standard av sikkerhet og komfort og bemannet av et eksepsjonelt
+          mannskap med mange års lokal kjennskap og erfaring. De vil guide deg
+          trygt i vakre omgivelser.
+
+
+          Våre private charter-cruise fra øya Paros er lager for å unngå lange,
+          slitsomme seil-økter og utsettelse for dårlig vær – ideelt både for
+          erfarne og nye seilere.
         align: left
         image: /images/d4591de9a32f47ca5b99c24703af5d33e7fa8f1b-318x318.jpg
         image_alt: Feature 1 placeholder image

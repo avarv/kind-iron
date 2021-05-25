@@ -91,17 +91,23 @@ sections:
         actions: []
         type: feature
       - title: Seilbåter til leie
-        content: >-
-          ## Lorem ipsum
+        content: >
+          “Greek Water Yachts” flåte består av to nye selveide Beneteaus Oceanis
+          40 med kaptein for greske seilturer. Beneteaus Oceanis 40 yachtene er
+          helt like og de er i utmerket tilstand. Oceanis 40 er veldig vakker.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          Det er også en katamaran tilgjengelig for charter fra en av våre
+          eksklusive assosierte.
 
-          - dolor sit amet
+          Alle våre båter tilbys kun med en profesjonell kaptein
+
+
+          [seilbat-med-skipper-i-hellas](https://greekislandssailing.com/no/seilbat-med-skipper-i-hellas/)
+
+          [katamaran-med-kaptein-hellas](https://greekislandssailing.com/no/katamaran-med-kaptein-hellas/)
         align: left
         image_alt: lorem-ipsum
         image_position: left

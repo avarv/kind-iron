@@ -23,7 +23,7 @@ sections:
     title: Seiling i Hellas
     features:
       - type: feature
-        title: Feature 1
+        title: Hva vi kan tilby deg
         content: >
           Start din seiltur blant de greske øyene fra midten av Kykladene i
           Egeerhavet og sett seil rundt de greske øyene.

@@ -90,7 +90,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: Seilbåter til leie
         content: >-
           ## Lorem ipsum
 

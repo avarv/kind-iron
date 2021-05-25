@@ -72,7 +72,7 @@ sections:
             url: /features
             style: secondary
       - type: feature
-        title: Feature 3
+        title: Seiling i Kykladene – Hellas
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in

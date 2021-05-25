@@ -20,7 +20,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Seiling i Hellas med skipper
+    title: Seiling i Hellas
     features:
       - type: feature
         title: Feature 1

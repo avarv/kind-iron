@@ -84,17 +84,7 @@ sections:
             url: /features
             style: secondary
       - title: Reiseruter for leie av bemannet seilyacht i Kykladene
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Fordelen med Paros er beliggenheten akkurat i midten av Kykladene med så mange øyer rundt, et ideelt startpunkt for ditt private seilcruise blant de greske øyer.\n\n\n\nDette gir deg muligheten til å seile ut på sjøen hver dag, uansett hvor vinden blåser fra, noe som gjør din greske øyhopping til en drøm.\n\nDet er så mange valg og så mange ankringsplasser å stoppe på, selv i veldig tøffe forhold, derfor er ditt seilecruise blant de greske øyene trygt og hyggelig selv for mannskap med lite erfaring.\n\nLei en av våre yachter og følg din reiserute i Kykladene\n\n*   [Seiltur i Små-Kykladene](https://greekislandssailing.com/no/seiling-til-sma-kykladene/)\_(7 dager)\n\n*   [Privat seiltur til Santorini](https://greekislandssailing.com/no/seiltur-til-santorini/)\_(7 dager)\n"
         align: left
         image_alt: lorem-ipsum
         image_position: left

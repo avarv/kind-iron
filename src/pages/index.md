@@ -47,11 +47,7 @@ sections:
         image: /images/d4591de9a32f47ca5b99c24703af5d33e7fa8f1b-318x318.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - type: feature
         title: Feature 2
         content: >

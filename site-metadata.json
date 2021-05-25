@@ -13,7 +13,7 @@
             },
             {
                 "type": "action",
-                "label": "Blog",
+                "label": "Blogg",
                 "url": "/blog",
                 "style": "link"
             },

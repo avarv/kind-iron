@@ -61,18 +61,6 @@ sections:
             label: Learn More
             url: /features
             style: secondary
-      - type: feature
-        title: Seiling i Kykladene – Hellas
-        content: "De vakre Kykladene former en sirkel rundt den hellige øya Delos hvor – ifølge gresk mytologi – Poseidon, havets gud, rasende på de kykladiske nymfene, forvandlet dem til øyer!\n\n\n\nØygruppen\_**Kykladene**\_er et perfekt valg for ditt private øy-cruise med leie av\_**bemannet seilbåt i Hellas**.\n\nHva dere kan forvente:\n\n*   mange øyer og steder å besøke\n\n*   korte seilinger blant øyene\n\n*   beskyttede vann\n\n*   unik natur og vakre landskap\n\n*   perfekt klima\n\n*   eventyrlig ferie på populære eller isolerte steder\n\n    es\n\nDet er derfor Kykladene er et område du må utforske gjennom leie av bemannet seilbåt.\n\nDet er derfor Kykladene er synonymt med Gresk Sommerferie og en av de beste stedene i verden for private turer med seilbåt.\n\nDet er derfor leing av seilbåt med skipper fra Paros øy er det ideale startpunktet for din private seiltur blant de greske øyene.\n\nSeiltur med leie av bemannet seilbåt i Hellas – Beste måten å oppleve de greske øyene\n\nNaviger vår webside og les mer om din greske seiltur, og ikke glem hva privat seiling med leie av en liten seilbåt tilbyr:\n\n*   en 24/7 sjøutsikt\n\n*   svømming fra baksiden av yachten din i varmt, klart vann\n\n*   besøke og utforske en annerledes øy, havn eller bukt hver dag\n\n*   alltid et bord i vannkanten eller en fantastisk utsikt, ingen turistmengder eller køer\n\n*   tilbring kveldene i land og nyt de beste tavernaene, restaurantene og kafeene\n\n*   besøk vakre naturlige bukter bare tilgjengelige med yacht, for lunsj, svømming, snorkling & avslapping\n\n*   ingen faste reiseruter – du bestemmer tempoet, hvor du vil reise og når\n\n*   et morsom, romantisk eller avslappende avbrekk fra hverdagen\n\n*   koster ikke mer enn en ferie på et hotell fordi du sparer penger for overnatting, måltider og billetter.\n\n*   en miljøvennlig ferie\n"
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
       - title: Reiseruter for leie av bemannet seilyacht i Kykladene
         content: "Fordelen med Paros er beliggenheten akkurat i midten av Kykladene med så mange øyer rundt, et ideelt startpunkt for ditt private seilcruise blant de greske øyer.\n\n\n\nDette gir deg muligheten til å seile ut på sjøen hver dag, uansett hvor vinden blåser fra, noe som gjør din greske øyhopping til en drøm.\n\nDet er så mange valg og så mange ankringsplasser å stoppe på, selv i veldig tøffe forhold, derfor er ditt seilecruise blant de greske øyene trygt og hyggelig selv for mannskap med lite erfaring.\n\nLei en av våre yachter og følg din reiserute i Kykladene\n\n*   [Seiltur i Små-Kykladene](https://greekislandssailing.com/no/seiling-til-sma-kykladene/)\_(7 dager)\n\n*   [Privat seiltur til Santorini](https://greekislandssailing.com/no/seiltur-til-santorini/)\_(7 dager)\n"
         align: left

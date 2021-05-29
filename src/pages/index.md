@@ -86,12 +86,11 @@ sections:
 
 
 
-          ![](https://greekislandssailing.com/no/wp-content/gallery/theyacht/greekwateryachts_sailboat_greekislandssailing-11.jpg)
 
 
 
 
-          ![](https://greekislandssailing.com/no/wp-content/gallery/katamaranaction/catamaran-holidays-greece-yacht-rental-island-35.jpg)
+          ![](https://scontent.fath3-3.fna.fbcdn.net/v/t1.6435-9/51109536\_961675910689609\_912738386429607936\_n.jpg?\_nc_cat=106\&ccb=1-3&\_nc_sid=2c4854&\_nc_eui2=AeFPnnnRmee3Z5IJE3cOX7lV1s4I-C8e5bjWzgj4Lx7luHE1t6YTpBcp\_2w50FAjAL3lSld37zrhWcIn1YmAOiD0&\_nc_ohc=aWWRzocu4kEAX_JAlAX&\_nc_ht=scontent.fath3-3.fna\&oh=a343afc8c9d7fc42e0ac4545c5423b09\&oe=60D6E849)![](https://greekislandssailing.com/wp-content/gallery/catamaran-in-action/catamaran-holidays-greece-yacht-rental-island-21.jpg)
         align: left
         image_alt: lorem-ipsum
         image_position: left

@@ -75,8 +75,6 @@ sections:
           helt like og de er i utmerket tilstand. Oceanis 40 er veldig vakker.
 
 
-
-
           Det er også en katamaran tilgjengelig for charter fra en av våre
           eksklusive assosierte.
 
@@ -85,7 +83,15 @@ sections:
 
           [seilbat-med-skipper-i-hellas](https://greekislandssailing.com/no/seilbat-med-skipper-i-hellas/)
 
-          [katamaran-med-kaptein-hellas](https://greekislandssailing.com/no/katamaran-med-kaptein-hellas/)
+
+
+
+          ![](https://greekislandssailing.com/no/wp-content/gallery/theyacht/greekwateryachts_sailboat_greekislandssailing-11.jpg)
+
+
+
+
+          ![](https://greekislandssailing.com/no/wp-content/gallery/katamaranaction/catamaran-holidays-greece-yacht-rental-island-35.jpg)
         align: left
         image_alt: lorem-ipsum
         image_position: left
